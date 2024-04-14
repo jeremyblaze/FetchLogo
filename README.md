@@ -2,7 +2,7 @@
 
 A PHP-based API that fetches apple touch icons / favicons for you.
 
-Try it at (neverbeforeseen.co/logos](https://neverbeforeseen.co/logos?ref=github)
+Try it at [neverbeforeseen.co/logos](https://neverbeforeseen.co/logos?ref=github)
 
 ## Overview
 This API fetches and caches website icons, prioritizing the Apple touch icon. It is designed to retrieve icons from specified hostnames and serve them directly from the cache for subsequent requests. The API focuses on delivering high-resolution icons when available and supports efficient handling of web resources.
